@@ -1,0 +1,37 @@
+insert a b 2.6
+kmst
+insert e c 5
+kmst
+insert t s 2
+kmst
+insert b d 7
+kmst
+insert b c 1.75
+kmst
+insert e b 1
+kmst
+insert t a 34
+kmst
+insert d c 4
+kmst
+insert e a 1
+kmst
+insert a b 100
+kmst
+delete t s 2
+kmst
+insert x y 7
+kmst
+insert d x 200
+kmst
+insert a x 300
+kmst
+insert c e 5
+kmst
+insert a m 6
+kmst
+insert c d 14
+kmst
+insert m j 6
+kmst
+eof

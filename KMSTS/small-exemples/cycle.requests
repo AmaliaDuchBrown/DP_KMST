@@ -1,0 +1,25 @@
+insert a b 1
+graph
+kmst
+insert f g 1
+graph
+kmst
+insert d e 1
+graph
+kmst
+insert a f 2
+graph
+kmst
+insert b c 1
+graph
+kmst
+insert b c 1
+graph
+kmst
+insert d e 0
+graph
+kmst
+insert d e 0
+graph
+kmst
+eof
